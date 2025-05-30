@@ -1,0 +1,17 @@
+INSERT INTO permiso (cod_permiso, nombre_permiso, descripcion_permiso) VALUES
+(1, 'GestionarUsuarios', 'Permite crear, editar y eliminar cuentas de usuario.'),
+(2, 'VerProyectos', 'Permite la visualización de los detalles de todos los proyectos.'),
+(3, 'CrearProyecto', 'Permite crear nuevos proyectos en el sistema.'),
+(4, 'EditarMiProyecto', 'Permite editar la información de un proyecto del cual es miembro (estudiante/docente).'),
+(5, 'EliminarProyecto', 'Permite eliminar proyectos del sistema.'),
+(6, 'SubirEntregable', 'Permite a los usuarios cargar archivos o documentos como entregables de su proyecto.'),
+(7, 'VerMisEvaluaciones', 'Permite a los estudiantes ver las evaluaciones de su proyecto.'),
+(8, 'EvaluarProyectos', 'Otorga la capacidad de calificar y dejar comentarios en todos los proyectos y entregables.'),
+(9, 'VerEvaluacionesAjenas', 'Permite a docentes/evaluadores ver evaluaciones de otros proyectos (no propios).'),
+(10, 'GestionarCursos', 'Permite crear, editar y eliminar cursos.'),
+(11, 'InscribirEstudiantes', 'Permite inscribir estudiantes a cursos o proyectos.'),
+(12, 'VerEntregables', 'Permite ver los entregables subidos por cualquier proyecto.'),
+(13, 'VerEvaluacionesPropias', 'Permite a docentes/evaluadores ver sus propias evaluaciones que han realizado.'),
+(14, 'GestionarRolesPermisos', 'Permite la administración de roles y permisos del sistema.'),
+(15, 'VerEventoPublico', 'Permite a espectadores o invitados ver información pública de un evento o proyectos.'),
+(16, 'ComentarProyecto', 'Permite dejar comentarios no evaluativos en un proyecto (sin rol de evaluador).');
