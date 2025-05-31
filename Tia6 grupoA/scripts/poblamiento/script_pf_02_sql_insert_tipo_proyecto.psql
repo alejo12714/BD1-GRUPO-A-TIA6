@@ -1,0 +1,4 @@
+INSERT INTO tipo_proyecto(cod_tipo_proyecto, tipo_proyecto) VALUES
+(100, 'PIA'),
+(101, 'PA'),
+(102, 'PE');
