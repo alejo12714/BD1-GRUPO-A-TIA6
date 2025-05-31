@@ -1,6 +1,0 @@
-INSERT INTO orientacion_del_proyecto (cod_orientacion, categoria_orientacion_pryecto, descripcion_orientacion) VALUES
-(1, 'Investigación Pura', 'Proyectos enfocados en la expansión del conocimiento teórico, sin un fin práctico inmediato, buscando entender principios fundamentales.'),
-(2, 'Desarrollo Aplicado', 'Proyectos que buscan crear o mejorar productos, procesos o servicios existentes para resolver problemas específicos y satisfacer necesidades prácticas.'),
-(3, 'Innovación Tecnológica', 'Proyectos orientados a la introducción de nuevas tecnologías, metodologías o modelos que generen un cambio disruptivo en un sector o área.'),
-(4, 'Impacto Social y Comunitario', 'Proyectos diseñados para abordar y mitigar problemas sociales, mejorar la calidad de vida de comunidades o promover el bienestar colectivo.'),
-(5, 'Educativo/Pedagógico', 'Proyectos dedicados a la mejora de los procesos de enseñanza-aprendizaje, el diseño de materiales didácticos o la implementación de nuevas estrategias educativas.');
